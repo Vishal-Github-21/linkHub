@@ -87,7 +87,7 @@ To set up the project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/vishalverma9572/LinkHub.git
+   git clone https://github.com/Vishal-Github-21/lnkhub.git
    cd LinkHub
    ```
 
@@ -238,7 +238,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or feedback, please reach out via email: vishalverma9572@gmail.com
+For any inquiries or feedback, please reach out via email: vishalmukkannavar690@gmail.com
 
 
 
