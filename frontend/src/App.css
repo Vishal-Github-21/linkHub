@@ -1,0 +1,5 @@
+/* Target WebKit-based browsers */
+*{
+  scrollbar-width: none;
+  
+}
