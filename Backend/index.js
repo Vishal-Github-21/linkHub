@@ -39,7 +39,13 @@ const transporter = nodemailer.createTransport({
 
 
 
-app.use(cors());
+app.use(
+  cors({
+    origin: "https://link-hub-azure.vercel.app",  // your frontend URL
+    methods: ["GET", "POST", "PUT", "DELETE"],
+    credentials: true,
+  })
+);
 app.use(express.json());
 app.get('/', (req, res) => {
   res.send('Hello World!');
